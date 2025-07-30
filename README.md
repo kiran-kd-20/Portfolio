@@ -6,7 +6,6 @@ This is a responsive personal portfolio website built using **HTML**, **Tailwind
 
 - Responsive design for mobile, tablet, and desktop
 - Smooth scroll navigation
-- Dark/Light mode toggle
 - Skills and projects sections
 - Contact form with social links
 - Scroll to top button
@@ -26,5 +25,4 @@ This is a responsive personal portfolio website built using **HTML**, **Tailwind
 
 /assets # Images (profile, projects)
 index.html # Main HTML file
-script.js # JavaScript for interactions
 README.md # Project documentation

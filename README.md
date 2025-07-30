@@ -19,7 +19,7 @@ This is a responsive personal portfolio website built using **HTML**, **Tailwind
 
 ## 🚀 Live Demo
 
-[Click to Visit](https://your-portfolio-link.netlify.app)
+[Click to Visit](https://portfolio-brown-tau-5sutm00unt.vercel.app/)
 
 ## 📁 Folder Structure
 
